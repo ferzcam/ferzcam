@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 
 - 🤙 Hi there, I am Fernando ([@ferzcam](https://github.com/ferzcam)).
 - 🔭 I’m currently a Ph.D. student in Computer Science at KAUST 🧑‍🔬
-- 🌱 I’m currently working on bio-ML, ontologies, and category theory.
-- 📫 How to reach me: ferzcam@gmail.com
+- 🌱 I’m currently working on knowledge representation, ontologies, and neuro-symbolic AI with applications in bioinformatics.
+- 📫 How to reach me: fernando.zhapacamacho@kaust.edu.sa
